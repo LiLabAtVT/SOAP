@@ -1,0 +1,15 @@
+Model,Selection,Train_Accuracy,Test_Accuracy
+lightGBM,pca,1.0,0.76
+MLP,none,0.57,0.67
+RandomForest,pca,0.63,0.67
+SVM,pca,0.55,0.67
+RandomForest,none,0.55,0.58
+cnn,none,0.5,0.58
+SVM,none,0.6,0.55
+lightGBM,none,0.5,0.55
+DecisionTreeGini,pca,0.64,0.55
+MLP,pca,0.49,0.55
+cnn,pca,0.57,0.55
+DecisionTreeEntropy,none,0.54,0.48
+DecisionTreeEntropy,pca,0.5,0.48
+DecisionTreeGini,none,0.51,0.33

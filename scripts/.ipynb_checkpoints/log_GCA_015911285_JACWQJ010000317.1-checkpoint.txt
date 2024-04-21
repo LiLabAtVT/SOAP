@@ -1,0 +1,8 @@
+
+muscle 5.1.linux64 []  264Gb RAM, 128 cores
+Built May 16 2023 07:53:40
+(C) Copyright 2004-2021 Robert C. Edgar.
+https://drive5.com
+
+Input: 0 seqs, length avg 0 max 0
+
