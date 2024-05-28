@@ -1,0 +1,12 @@
+sklearn==0.0.post5
+numpy==1.23.5
+tensorflow==2.12.0
+keras==2.12.0
+xgboost==1.7.5
+lightgbm==3.3.5
+statsmodels==0.14.0
+shap==0.41.0
+prince==0.13.0
+seaborn==0.12.2
+matplotlib==3.7.1
+pandas==2.0.1
